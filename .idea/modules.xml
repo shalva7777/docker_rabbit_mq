@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Docker-RabbitMQ/Docker-RabbitMQ.iml" filepath="$PROJECT_DIR$/Docker-RabbitMQ/Docker-RabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Docker-RabbitMQ-Server2/Docker-RabbitMQ-Server2.iml" filepath="$PROJECT_DIR$/Docker-RabbitMQ-Server2/Docker-RabbitMQ-Server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/docker.iml" filepath="$PROJECT_DIR$/.idea/docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Docker-App/dockerapp.iml" filepath="$PROJECT_DIR$/Docker-App/dockerapp.iml" />
+    </modules>
+  </component>
+</project>
